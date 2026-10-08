@@ -28,7 +28,7 @@ An evaluation harness for LLM agents: test sets, automated scoring and regressio
 
 Previously a data analyst in audit and advisory at RSM UK. B.Tech and M.Tech from IIT Bombay, and an MSc in Advanced Robotics from Queen Mary University of London.
 
-Outside work I play 1st XI cricket for North Middlesex CC.
+Outside work I play cricket, train in the gym and bake cookies in my free time.
 
 ## Contact
 
